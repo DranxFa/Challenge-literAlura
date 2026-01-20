@@ -89,3 +89,9 @@ mvn spring-boot:run
 
 | [<img src="https://github.com/user-attachments/assets/ed62fad0-2a7e-4029-8525-2eec5c620be3" width="155"><br><sub>Andrio Contreras</sub>](https://github.com/DranxFa) |
 | :---: |
+
+---
+
+## 📌 Estado del Proyecto
+
+✅ Finalizado — abierto a mejoras o nuevas versiones.
